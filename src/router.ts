@@ -18,6 +18,11 @@
     name: 'Foo',
     path: '/components/Foo',
     component: () => import('packages/Foo/docs/README.md'),
+  },{
+    title: '盒子',
+    name: 'Box',
+    path: '/components/Box',
+    component: () => import('packages/Box/docs/README.md'),
   }];
  
  const routerConfig = {

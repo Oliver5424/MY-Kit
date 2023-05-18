@@ -10,5 +10,11 @@
     "compZhName": "测试组件",
     "compDesc": "默认：这是一个新组件",
     "compClassName": "foo"
+  },
+  {
+    "compName": "Box",
+    "compZhName": "盒子",
+    "compDesc": "大屏盒子组件",
+    "compClassName": "box"
   }
 ]
